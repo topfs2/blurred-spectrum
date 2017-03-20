@@ -103,7 +103,7 @@ function createSpectrum(n, w, h, g, create) {
 
     $(".info").css("color", spectrumColor);
 
-    var MP3_PATH = "https://a.tumblr.com/tumblr_n6k5kd8E0W1sadul5o1.mp3";
+    var MP3_PATH = "music/So long.mp3";
     var NUM_BANDS = 128;
     var SMOOTHING = 0.5;
 
